@@ -47,6 +47,6 @@ $ cargo run company-directory
 $ cargo run web-server
 ```
 
-## License
+## License.
 
 MIT © [Neil Kistner](https://neilkistner.com)
